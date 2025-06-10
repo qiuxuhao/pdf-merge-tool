@@ -2,7 +2,7 @@
 
 > 一款简单易用的PDF文件合并工具，为解决报销场景下发票打印浪费问题而设计。
 
-![PDF合并工具](./screenshots/preview.png)
+![PDF合并工具](./screenshots/interface.png)
 
 ## 功能特性
 
@@ -21,7 +21,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/qxh/pdf-merge-tool.git
+git clone https://github.com/qiuxuhao/pdf-merge-tool.git
 cd pdf-merge-tool
 
 # 安装依赖
