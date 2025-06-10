@@ -81,10 +81,6 @@ npm run build:current
 - 合并后的文件名自动添加年月日时间标记（格式：merged_YYYY_MM_DD_HH_MM_SS.pdf）
 - 合并完成后自动打开输出文件夹，方便用户立即查看或使用合并后的文件
 
-## 界面预览
-
-![界面预览](./screenshots/interface.png)
-
 ## 贡献者
 
 - qxh - 项目发起人与主要开发者
